@@ -1,0 +1,19 @@
+<!DOCTYPE>
+<html>
+<head>
+<tittle>Lista de perros y gatos</tittle>
+</head>
+<body>
+
+<p>Lista de perros:</p>
+<ol style="list-style-type: katakana">
+<li><a title="Link Wikipedia" href="https://es.wikipedia.org/wiki/Shiba_Inu" target="_blank"> Shiba-Inu</a></li>
+<li><a title="Link Wikipedia" href="https://es.wikipedia.org/wiki/Akita_Inu" target="_blank"> Akita-Inu</a></li>
+<li><a title="Link Wikipedia" href="https://es.wikipedia.org/wiki/Tosa_Inu" target="_blank"> Tosa-Inu</a></li>
+</ol>
+<p>Lista de gatos:</p>
+<ul>
+<li><a title="Link Wikipedia" href="https://es.wikipedia.org/wiki/Gato_siam%C3%A9s" target="_blank"> Siamés</a></li>
+<li><a title="Link Wikipedia" href="https://es.wikipedia.org/wiki/Dragon_Li" target="_blank"> Dragon-Li</a></li>
+<li><a title="Link Wikipedia" href="https://es.wikipedia.org/wiki/Korat" target="_blank"> Korat</a></li>
+</ul>
